@@ -1,0 +1,16 @@
+magnitude,depth_km,buildings_affected,population_density,damage_level
+6.7,10,1000,500,High
+5.2,30,200,300,Medium
+4.8,15,50,100,Low
+7.1,8,1500,700,High
+6.3,12,500,450,Medium
+5.5,25,300,320,Medium
+4.3,18,30,90,Low
+6.9,11,1200,650,High
+5.8,20,350,400,Medium
+4.9,14,60,150,Low
+6.0,9,700,470,High
+5.0,27,150,210,Medium
+6.5,13,900,600,High
+4.7,16,40,130,Low
+7.2,7,1600,800,High
